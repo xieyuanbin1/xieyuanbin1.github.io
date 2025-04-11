@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 我是一个灯
+title: 我的树洞
 # subtitle: '这里有导航'
 description: '应该有点描述'
 keywords: ['我', 'Nic']
@@ -107,5 +107,5 @@ lang: zh-CN
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: 'git@github.com:xybin1990/xybin1990.github.io.git'
+  repo: 'git@github.com:xieyuanbin1/xieyuanbin1.github.io.git'
   branch: gh-pages
