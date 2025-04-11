@@ -26,13 +26,5 @@
       }
     });
     <% } %>
-  /* 小彩蛋: 饮茶先啦 */
-  setTimeout(() => {
-    var time = new Date();
-    if (time.getHours() == 15) {
-      let comment = document.createComment(' 三点几嚟！饮茶先啦！ ');
-      document.body.insertBefore(comment, document.getElementsByTagName('header')[0]);
-    }
-  },1);
     
 </script>
