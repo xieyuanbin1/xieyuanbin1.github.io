@@ -29,3 +29,5 @@ npx hexo new [layout] <title>
 会在 <code>source/<_layout>/</code> 下创建名称为 <code>title</code> 的文件
 
 draft 新建的是草稿，需要 publish（发表） 到 post 中才会展示
+
+test merge
